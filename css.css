@@ -1,0 +1,27 @@
+h1{
+    color:rgb(45, 30, 146);
+    margin: 0 auto;
+    text-align: center;
+}
+p{
+    color:rgb(202, 31, 142);
+    font-size:46px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.htmlContainer {
+    background-color:aqua;
+    background-image:url(https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/embed/public/2018/01/30/elephant-31009881920.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width:100%;
+    height: 100px;
+    padding-left: 50px;
+    margin: 50px;
+    margin: 0 auto;
+}
+.CSSContainer{
+    background-color:rgb(29, 213, 63);
+    width:100%;
+    margin: 50px;
+}
